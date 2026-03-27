@@ -1,2 +1,3 @@
 Arquivo principal
-Arquivo principal alterado
+Arquivo principal alterado 2
+Arquivo principal alterado 3
